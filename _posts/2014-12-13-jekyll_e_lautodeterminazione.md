@@ -2,7 +2,7 @@
 layout: post
 title: Jekyll e l'autodeterminazione
 description: "share remix and fun"
-headline: "Quel simpatico strumento in [Ruby](https://www.ruby-lang.org/it/), ovvero [Jekyll]"
+headline: "Quel simpatico strumento in Ruby ovvero Jekyll"
 categories: personal
 tags: 
   - blogging
@@ -11,7 +11,7 @@ image:
   feature: http://upload.wikimedia.org/wikipedia/commons/b/b6/Diogenes_looking_for_a_man_-_attributed_to_JHW_Tischbein.jpg
   credit: Commons
   creditlink: "http://it.wikipedia.org/wiki/Diogene_di_Sinope#mediaviewer/File:Diogenes_looking_for_a_man_-_attributed_to_JHW_Tischbein.jpg"
-comments: false
+comments: true
 mathjax: null
 featured: true
 published: true
