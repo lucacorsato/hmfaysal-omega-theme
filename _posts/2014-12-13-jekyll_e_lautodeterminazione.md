@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Jekyll e l'autodeterminazione
-description: "Its ON, baby"
-headline: "Let's Fire up the Engines"
+description: "share remix and fun"
+headline: "Quel simpatico strumento in [Ruby](https://www.ruby-lang.org/it/), ovvero [Jekyll]"
 categories: personal
 tags: 
   - blogging
