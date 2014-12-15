@@ -8,7 +8,7 @@ tags:
   - blogging
   - jekyll
 image: 
-  feature: http://upload.wikimedia.org/wikipedia/commons/b/b6/Diogenes_looking_for_a_man_-_attributed_to_JHW_Tischbein.jpg
+  feature: "http://upload.wikimedia.org/wikipedia/commons/b/b6/Diogenes_looking_for_a_man_-_attributed_to_JHW_Tischbein.jpg"
   credit: Commons
   creditlink: "http://it.wikipedia.org/wiki/Diogene_di_Sinope#mediaviewer/File:Diogenes_looking_for_a_man_-_attributed_to_JHW_Tischbein.jpg"
 comments: true
