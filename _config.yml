@@ -166,7 +166,8 @@ prose:
         field:
           element: "text"
           label: "Featured Image"
-          placeholder: "somefile.jpg"
+          #placeholder: "somefile.jpg"
+          placeholder: "http://somewebsite.com"
       - name: "imagecredit"
         field:
           element: "text"
