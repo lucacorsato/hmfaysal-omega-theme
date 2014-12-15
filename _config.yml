@@ -1,4 +1,4 @@
-title:            HMFAYSAL
+title:            luca corsato punto it
 description:      "Omega: The Coolest Theme for Jekyll"
 logo:             omikron.png
 disqus_shortname: hmfaysal
@@ -18,7 +18,7 @@ fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:       		   /hmfaysal-omega-theme
+url:       		   http://lucacorsato.github.io
 
 # Owner/author information
 owner:
